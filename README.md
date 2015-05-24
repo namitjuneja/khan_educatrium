@@ -1,3 +1,21 @@
+This has been submitted for 
+Educatrium Ventures
+for the summer internship program
+
+The modules are in the Exercises folder
+Question 1
+A basic implementation of the code structure with variable declaration and a random problem generating on every attempt.
+
+Question 2
+Makes use of graphie to plot graphs and so simple calculations
+
+Question 3
+Makes use of interactive graphie to plot interactive elements and use custom type answer to record and evealuate the solutions
+
+
+
+
+
 # Khan Academy Exercises
 
 Copyright (c) 2014 Khan Academy
