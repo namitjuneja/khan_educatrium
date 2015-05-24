@@ -16,10 +16,10 @@ Makes use of interactive graphie to plot interactive elements and use custom typ
 To access the Questions
 You need to serve the files from some sort of a server. You can't just open the files directly in a browser. For example:
 
-    cd khan-exercises
+    cd khan_educatrium
     python -m SimpleHTTPServer # or python3 -m http.server
 
-Now if you open your browser to `http://localhost:8000` (or `http://127.0.0.1:8000/`) you should see the contents of the `khan-exercises` directory. Navigate to the `exercises` subfolder, and an HTML file under there to see an exercise.
+Now if you open your browser to `http://localhost:8000` (or `http://127.0.0.1:8000/`) you should see the contents of the `khan_educatrium` directory. Navigate to the `exercises` subfolder, and an HTML file under there to see an exercise.
 
 
 
